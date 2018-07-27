@@ -1,0 +1,42 @@
+#img{
+   padding: 15px;
+}
+
+#container{
+    display: inline-block;
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background: #090c2d;
+}
+#left{
+    float: left;
+    width: 500px;
+    margin-left: 150px;
+}
+#right{
+    float: right;
+    width: 500px;
+    font-family: "Adobe Devanagari";
+    font-weight: lighter;
+    margin-right: 20px;
+    padding-top: 8px;
+    color:#eaf2ff;
+    font-size: 30px;
+}
+#h2{
+    color:#006eff;
+}
+#h3{
+    color:#b19aea;
+    display: inline;
+}
+#info{
+    background: #eaf2ff;
+    padding-right: "50px";
+    padding-left: "50px";
+}
+#h4{
+    color:#090c2d;
+    font-weight: bold;
+}
